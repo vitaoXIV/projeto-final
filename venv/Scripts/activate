@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\SENAC\Desktop\PROJETO REST_COUNTRIES\venv"
+VIRTUAL_ENV="C:\Users\SENAC\Desktop\projeto-final\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
